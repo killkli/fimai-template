@@ -1,6 +1,6 @@
 <template>
   <main>
-    <nav class="fixed flex flex-col h-full p-4 space-y-4 font-semibold text-white bg-slate-600">
+    <nav class="fixed right-0 flex flex-col h-full p-4 space-y-4 font-semibold text-white bg-slate-600">
       <a href="#color">Color</a>
       <a href="#fontSize">fontSize</a>
       <a href="#icon">Icon</a>
