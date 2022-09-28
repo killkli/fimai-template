@@ -1,0 +1,1 @@
+import{_ as c}from"./_plugin-vue_export-helper-c4cb8a60.js";import{o as e,c as o}from"./index-2f03a545.js";const t={},r={class:"bg-black"};function s(n,_){return e(),o("div",r)}const m=c(t,[["render",s]]);export{m as default};
